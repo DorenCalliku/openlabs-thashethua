@@ -1,2 +1,10 @@
 # thashethua
-Having fun with the public sphere in Albania.
+
+Language tasks for Albanian.
+
+- [ ] pywikibot
+- [ ] language resources
+  - [ ] vocabulary
+  - [ ] syntax
+  - [ ] grammar
+- [ ] usage patterns: newspapers
