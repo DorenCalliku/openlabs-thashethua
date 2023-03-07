@@ -1,5 +1,17 @@
+# computational
 gensim
 jupyterlab
 pandas
 
+# language
 spacy
+
+# bot
+pywikibot
+
+# wiki
+sparqlwrapper
+
+# visuals
+ipywidgets
+ipyleaflet

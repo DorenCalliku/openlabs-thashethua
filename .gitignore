@@ -1,4 +1,7 @@
 notes/
+data/
+logs/
+apicache-py3/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

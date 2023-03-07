@@ -8,3 +8,8 @@ Language tasks for Albanian.
   - [ ] syntax
   - [ ] grammar
 - [ ] usage patterns: newspapers
+
+
+### PyWikiBot & PWAS
+
+- https://wikitech.wikimedia.org/wiki/PAWS/PAWS_examples_and_recipes
